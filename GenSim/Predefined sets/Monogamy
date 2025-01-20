@@ -1,0 +1,17 @@
+seasons 200 
+maleStart 1000 
+femaleStart 1000 
+maxMate 1 
+popMax 2000 
+avgDisplay 500 
+dispDev 100 
+avgSearchBegin 8 
+searchDev 3 
+avgDecline 100 
+declineDev 25 
+primeDate 10 
+mutation 10 
+dateDeathDev 8 
+fatalDisp 1000 
+encounter 20 
+baseDeath 10
